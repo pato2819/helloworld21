@@ -1,2 +1,2 @@
-<h1> la vida es bella :/ </h1>
+<h1> vamos :/ </h1>
 
